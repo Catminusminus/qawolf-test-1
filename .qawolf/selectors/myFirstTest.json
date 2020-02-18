@@ -1,0 +1,42 @@
+[
+ {
+  "html": {
+   "ancestors": [
+    "<header class=\"header\" data-reactid=\".0.0\"></header>",
+    "<div data-reactid=\".0\"></div>"
+   ],
+   "node": "<input class=\"new-todo\" placeholder=\"What needs to be done?\" value=\"\" data-reactid=\".0.0.1\"/>"
+  },
+  "index": 0
+ },
+ {
+  "html": {
+   "ancestors": [
+    "<header class=\"header\" data-reactid=\".0.0\"></header>",
+    "<div data-reactid=\".0\"></div>"
+   ],
+   "node": "<input class=\"new-todo\" placeholder=\"What needs to be done?\" value=\"\" data-reactid=\".0.0.1\"/>"
+  },
+  "index": 1
+ },
+ {
+  "html": {
+   "ancestors": [
+    "<div class=\"view\" data-reactid=\".0.1.2.$baa382d7-d998-4aba-89e0-a5202ddff983.0\"></div>",
+    "<li class=\"\" data-reactid=\".0.1.2.$baa382d7-d998-4aba-89e0-a5202ddff983\"></li>"
+   ],
+   "node": "<input class=\"toggle\" type=\"checkbox\" data-reactid=\".0.1.2.$baa382d7-d998-4aba-89e0-a5202ddff983.0.0\"/>"
+  },
+  "index": 2
+ },
+ {
+  "html": {
+   "ancestors": [
+    "<footer class=\"footer\" data-reactid=\".0.2\"></footer>",
+    "<div data-reactid=\".0\"></div>"
+   ],
+   "node": "<button class=\"clear-completed\" data-reactid=\".0.2.2\" innertext=\"Clear completed\">Clear completed</button>"
+  },
+  "index": 3
+ }
+]
